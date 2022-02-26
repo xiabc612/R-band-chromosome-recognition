@@ -1,2 +1,2 @@
 # Rband_recognition
-Coming soon!
+THE CODE WILL BE MADE AVAILABLE SOON!
