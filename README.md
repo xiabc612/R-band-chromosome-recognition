@@ -1,8 +1,8 @@
 # R-band-chromosome-recognition
-##Installation
+## Installation
 
-##Usage
+## Usage
 
-##Citation
+## Citation
 
-##Contact
+## Contact
