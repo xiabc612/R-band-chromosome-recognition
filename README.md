@@ -8,6 +8,14 @@ This is the code for paper "An End-to-End Combinatorial Optimization Method forR
 
 ## Usage
 
+For training the method proposed in the paper, please run:
+    
+    python train.py --model resnet50_gfim_dam --model_name model_resnet50_gfim_dam
+
+For training the baseline ResNet50 model, please run:
+
+    python train.py --model resnet50 --model_name model_resnet50
+
 ## Citation
 
 Please cite the following paper if you feel this work is useful to your research
