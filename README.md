@@ -1,4 +1,9 @@
 # R-band-chromosome-recognition
+
+## Introduction
+
+This is the code for paper "An End-to-End Combinatorial Optimization Method forR-band Chromosome Recognition withGrouping Guided Attention".
+
 ## Installation
 
 ## Usage
@@ -15,3 +20,7 @@ Please cite the following paper if you feel this work is useful to your research
     }
 
 ## Contact
+
+For any question, please file an issue or contact
+
+    Chao Xia: xiabc612@gmail.com
