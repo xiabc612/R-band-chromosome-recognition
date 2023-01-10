@@ -2,9 +2,15 @@
 
 ## Introduction
 
-This is the code for paper "An End-to-End Combinatorial Optimization Method forR-band Chromosome Recognition withGrouping Guided Attention".
+This is the code for MICCAI2022 paper "An End-to-End Combinatorial Optimization Method forR-band Chromosome Recognition withGrouping Guided Attention".
 
 ## Installation
+
+Dependency: Python3; PyTorch
+
+Download the following pretrained model and put them in model/pretrain folder:
+https://dl.fbaipublicfiles.com/detr/detr-r50-e632da11.pth
+https://download.pytorch.org/models/resnet50-19c8e357.pth
 
 ## Usage
 
