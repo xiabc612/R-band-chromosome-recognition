@@ -11,6 +11,7 @@ Dependency: Python3; PyTorch
 Download the following pretrained model and put them in model/pretrain folder:
 
 https://dl.fbaipublicfiles.com/detr/detr-r50-e632da11.pth
+
 https://download.pytorch.org/models/resnet50-19c8e357.pth
 
 ## Usage
