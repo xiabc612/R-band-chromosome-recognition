@@ -28,15 +28,17 @@ For training the baseline ResNet50 model, please running:
 
 Please cite the following paper if you feel this work is useful to your research
 
-    @inproceedings{2022An,
-      title={An End-to-End Combinatorial Optimization Method forR-band Chromosome Recognition withGrouping Guided Attention},    
-      author={ Xia, Chao  and  Wang, Jiyue  and  Qin, Yulei  and  Gu, Yun  and  Chen, Bing  and  Yang, Jie },
+    @inproceedings{xia2022end,
+      title={An End-to-End Combinatorial Optimization Method for R-band Chromosome Recognition with Grouping Guided Attention},
+      author={Xia, Chao and Wang, Jiyue and Qin, Yulei and Gu, Yun and Chen, Bing and Yang, Jie},
       booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+      pages={3--13},
       year={2022},
+      organization={Springer}
     }
 
 ## Contact
 
 For any question, please file an issue or contact
 
-    Chao Xia: xiabc612@gmail.com
+    ChaoXia: xiabc612@gmail.com
